@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/jB22gb2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="jB22gb2" data-context="false" ><a href="//imgur.com/jB22gb2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Notes
