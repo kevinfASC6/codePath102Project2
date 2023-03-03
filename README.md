@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="jB22gb2" data-context="false" ><a href="//imgur.com/jB22gb2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Here's a walkthrough of implemented required features: 
+https://imgur.com/jB22gb2
+![ezgif com-resize](https://imgur.com/jB22gb2.gif)
 
 
 ## Notes
