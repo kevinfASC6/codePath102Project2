@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features: 
 https://imgur.com/jB22gb2
-![ezgif com-resize](https://imgur.com/jB22gb2.gif)
+![Screen-Recording-2023-03-03-at-2](https://user-images.githubusercontent.com/52749888/222815519-f8e3fe68-916f-4dac-b707-afdf06c812f8.gif)
+
 
 
 ## Notes
