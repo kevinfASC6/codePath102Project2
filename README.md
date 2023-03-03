@@ -30,7 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features: 
 https://imgur.com/jB22gb2
-![Screen-Recording-2023-03-03-at-2](https://user-images.githubusercontent.com/52749888/222815519-f8e3fe68-916f-4dac-b707-afdf06c812f8.gif)
+![Screen-Recording-2023-03-03-at-2](https://user-images.githubusercontent.com/52749888/222815519-f8e3fe68-916f-4dac-b707-afdf06c812f8.gif) 
+All Languages (some might not be shown in GIF) 
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/52749888/222815894-bc241b33-3b7f-4515-aa98-6a54713cd88f.png">
+
 
 
 
