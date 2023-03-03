@@ -1,0 +1,119 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center; 
+  background-color: rgb(134, 218, 15);
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+h5 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.flashcard {
+  width: 300px;
+  height: 200px;
+  border: 10px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px #ccc;
+  transition: all 0.3s ease-in-out; 
+  display: grid;
+} 
+
+.flashcard1 { 
+  width: 300px;
+  height: 200px;
+  border: 10px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px #ccc;
+  transition: all 0.3s ease-in-out;
+  background:pink;
+}
+
+.flashcard2 { 
+  width: 300px;
+  height: 200px;
+  border: 10px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px #ccc;
+  transition: all 0.3s ease-in-out;
+  background:rgb(190, 219, 229);
+}
+
+.flashcard3 { 
+  width: 300px;
+  height: 200px;
+  border: 10px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px #ccc;
+  transition: all 0.3s ease-in-out;
+  background:rgb(202, 245, 222);
+} 
+
+.flashcard:hover {
+  transform: translateY(-5px);
+  box-shadow: 2px 4px 10px #ccc;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #98b519;
+  color: rgb(15, 6, 110);
+  margin-top: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #008080;
+  box-shadow: 1px 1px 5px #ccc;
+}  
+
+img { 
+  height:100px;  
+  width: 100px;   
+  display: flex;  
+  justify-content: center;
+}
