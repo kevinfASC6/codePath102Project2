@@ -116,4 +116,12 @@ img {
   width: 100px;   
   display: flex;  
   justify-content: center;
+} 
+
+.correct {
+  background-color: lightblue;
+}
+
+.wrong {
+  background-color: lightcoral;
 }
